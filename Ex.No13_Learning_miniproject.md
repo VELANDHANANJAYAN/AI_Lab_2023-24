@@ -1,5 +1,5 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
+# Ex.No: 13 Learning – Use Supervised Learning  
+### DATE: 04/11/24                                                                         
 ### REGISTER NUMBER : 212222040176
 ### AIM: 
 To build a predictive model that accurately classifies weather types based on meteorological data (precipitation, temperature, and wind).###  Algorithm:
