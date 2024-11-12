@@ -1,4 +1,4 @@
-# Ex.No: 13 Learning – Use Supervised Learning  
+# Ex.No: 13 Machine Learning Miniproject  
 ### DATE: 04/11/24                                                                         
 ### REGISTER NUMBER : 212222040176
 ### AIM: 
